@@ -4,7 +4,7 @@ pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
-    <title>CRUD JSP</title>
+    <title>CRUD JSP/JAVA</title>
     
 <style type="text/css">
 
